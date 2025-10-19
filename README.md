@@ -1,1 +1,3 @@
-# Traitement-Images-Python
+# traitement-d-images
+
+Ce dépôt contient des scripts Python pour effectuer diverses tâches de traitement d'images. Le projet couvre des opérations telles que la manipulation d'images binaires et en niveaux de gris, la création d'histogrammes, la conversion d'images, ainsi que l'application de filtres. Il vise à fournir une compréhension pratique des techniques fondamentales du traitement d'images en utilisant Python.
